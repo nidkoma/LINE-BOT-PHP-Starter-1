@@ -1,2 +1,2 @@
 <?php
-mongkhon "i am a bot";
+acho "i am a bot";
